@@ -1,0 +1,2 @@
+{"type":"metrics","dataset":"train","r2":0.888791663,"mse":6.0321970225,"mad":1.1}
+{"type":"metrics","dataset":"test","r2":0.7274060183,"mse":33.1957320139,"mad":1.34375}
